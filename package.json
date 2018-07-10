@@ -1,14 +1,14 @@
 {
-  "name": "youngdit",
+  "name": "react-webpack-material-skeleton",
   "version": "1.0.0",
-  "description": "",
+  "description": "2018 frontend skeleton",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "development": "NODE_ENV=development webpack-dev-server --mode=development",
     "production": "NODE_ENV=production webpack --mode=production"
   },
-  "author": "",
+  "author": "ObukhovMG",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
